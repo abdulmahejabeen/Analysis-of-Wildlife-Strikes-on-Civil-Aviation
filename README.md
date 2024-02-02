@@ -3,7 +3,7 @@ Wildlife strikes are the consequence of various factors. These factors include m
 ## Description
 This project focuses on the aforementioned factors and try to ascertain levels of contribution for each factor. This project aim is to provide indepth analysis of dataset includes visualization through various types of graphs which have been used to demonstrate a concise overview of the bird strike problem in commercial aviation and also the factors contributing to the occurrence and the potential consequences in terms of effect on the flight and damage. 
 ## Datasets
-There are two datasets used in this analysis. Wildlife strikes data is downloaded from FAA Wildlife Strike Database (https://wildlife.faa.gov/home). It Contains data from 1990 to 2021, consisting of 260,000 records, and 100 fields covering all states in US. 
+There are two datasets used in this analysis. Wildlife strikes data is downloaded from [FAA Wildlife Strike Database](https://wildlife.faa.gov/home). It Contains data from 1990 to 2021, consisting of 260,000 records, and 100 fields covering all states in US. 
 
 The other dataset used is Aviation accidents dataset, has been collected from NTSB aviation accident database contains information from 1990 to 2021. It consists of about 88000 records covering 49 different states of the US from the years 1990 to 2021. Both datasets are integrated using Outer Join. 
 ## Dashboard
