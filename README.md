@@ -6,5 +6,6 @@ This project focuses on the aforementioned factors and try to ascertain levels o
 There are two datasets used in this analysis. Wildlife strikes data is downloaded from FAA Wildlife Strike Database. It Contains data from 1990 to 2021, consisting of 260,000 records, and 100 fields covering all states in US. 
 
 The other dataset used is Aviation accidents dataset, has been collected from NTSB aviation accident database contains information from 1990 to 2021. It consists of about 88000 records covering 49 different states of the US from the years 1990 to 2021. Both datasets are integrated using Outer Join. 
-
+## Dashboard
+https://public.tableau.com/app/profile/mahejabeenab/viz/Wildlifestrikesanalysis/Wildlifestrikesstory
 
