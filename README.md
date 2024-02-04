@@ -24,7 +24,7 @@ The other dataset used is Aviation accidents dataset, has been collected from [N
 - Analysis of the Airports and aircraft damages.
 - Phase of Flight and Time of Day has more impact on the strikes.
 - Analysis of economic losses due to wildlife strikes.
-- Impact on Human fatalities and injuries due to strikes.
+- Impact on Human fatalities and injuries due to strikes. 
 
 ## Dashboard
 https://public.tableau.com/app/profile/mahejabeenab/viz/Wildlifestrikesanalysis/Wildlifestrikesstory
